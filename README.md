@@ -1,10 +1,10 @@
-"# DTA_DST" 
-
 # BCI-Self-paced Multi-session Dataset 
 
 This dataset was created to test the combination of self-paced control with “One-Time Calibration” (user specific, but session-independent models):
-- Read Instructions_data.pdf file for explanation regarding LSC communication speller paradigm and how to extract data from datasets
-- ++++.m is the main file to extract epochs from dataset 
+- The multi-session dataset is available in the dataset directory
+- Read **Instructions_data.pdf** file for explanation regarding LSC communication speller paradigm and how to extract data from datasets
+- Run the main file xxxxxx.m  to extract EEG epochs from datasets
+- A  demonstratative video of the self-paced communication-speller BCI is available below   
 
 <p align="center">
   <a href="https://github.com/gpiresML/DTA_DBST/releases/download/demo-video/demo_video_BCI.mp4">
@@ -15,7 +15,8 @@ This dataset was created to test the combination of self-paced control with “O
 
 
 # DTA and DBST approaches 
-DTA and DBST can be tested  
-- Read Instructions_DTA_DBST.pdf to check how to to apply DTA and DBST Methods 
+DTA and DBST can be tested  xxx
+- Read **Instructions_DTA_DBST.pdf** to check how to to apply DTA and DBST Methods
+- - Run xxxx
 
 
