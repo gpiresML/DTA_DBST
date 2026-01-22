@@ -8,7 +8,7 @@ This dataset was created to test the combination of self-paced control with “O
 
 <p align="center">
   <a href="https://github.com/gpiresML/DTA_DBST/releases/download/demo-video/demo_video_BCI.mp4">
-    <img src="assets/demo-preview.png" alt="Demo video preview" title="Click to open the demo video" width="480">
+    <img src="assets/demo-preview.png" alt="Demo video preview" title="Click to open the demo video" width="240">
   </a><br>
   <em>Demo video (MP4, ~90 MB) — click the image to download the video.</em>
 </p>
