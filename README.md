@@ -2,8 +2,8 @@
 
 This dataset was created to test the combination of self-paced control with “One-Time Calibration” (user specific, but session-independent models):
 - The multi-session dataset is available in the dataset directory
-- Read **Instructions_data.pdf** file for explanation regarding LSC communication speller paradigm and how to extract data from datasets
-- Run the main file xxxxxx.m  to extract EEG epochs from datasets
+- Read **Instructions_Dataset_epoch_extraction.pdf** file for explanation regarding LSC communication speller paradigm and how to extract data from datasets
+- Run the main file **Epoch_extraction.m**  to extract EEG epochs from datasets
 - A  demonstratative video of the self-paced communication-speller BCI is available below   
 
 <p align="center">
@@ -17,7 +17,8 @@ This dataset was created to test the combination of self-paced control with “O
 # DTA and DBST approaches 
 DTA and DBST can be tested  xxx
 - Read **Instructions_DTA_DBST.pdf** to check how to to apply DTA and DBST Methods
-- - Run xxxx
+- Run **Classification_DTA.m** to use DTA pipline approach
+- Run **Classification_DBST.m** to use DTA+DBST pipeline approach
 
 # Paper
-This dataset is associated with a paper under submission.
+This dataset is associated with a paper under submission entitled “Self-paced ERP-based BCI speller with one-time calibration: A unified framework”, G. Pires, A, Cruz, J. Figueiredo, U. J. Nunes
