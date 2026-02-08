@@ -15,7 +15,7 @@ This dataset was created to test the combination of self-paced control with “O
 
 
 # DTA and DBST approaches 
-DTA and DBST can be tested  xxx
+To test DTA and DBST:
 - Read **Instructions_DTA_DBST.pdf** to check how to to apply DTA and DBST Methods
 - Run **Classification_DTA.m** to use DTA pipline approach
 - Run **Classification_DBST.m** to use DTA+DBST pipeline approach
