@@ -23,6 +23,8 @@ To test DTA and DBST:
 # Paper
 Please cite our paper if you find this work is useful to you: 
 G. Pires, A. Cruz, J. Figueiredo, et al. Self-paced ERP-based BCI speller with one-time calibration: A unified framework. TechRxiv. February 25, 2026.
+
 DOI: 10.36227/techrxiv.177203255.59502778/v1
-[Link]([https://example.com](https://www.techrxiv.org/users/1029911/articles/1389674-self-paced-erp-based-bci-speller-with-one-time-calibration-a-unified-framework))
+<a href="[https://example.com](https://www.techrxiv.org/users/1029911/articles/1389674-self-paced-erp-based-bci-speller-with-one-time-calibration-a-unified-framework)" target="_blank" rel="noopener noreferrer">Project website</a>
+
 
