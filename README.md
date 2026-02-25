@@ -20,9 +20,10 @@ To test DTA and DBST:
 - Run **Classification_DTA.m** to use DTA pipline approach
 - Run **Classification_DBST.m** to use DTA+DBST pipeline approach
 
-# Paper
+# Cite
 Please cite our paper if you find this work is useful to you: 
-G. Pires, A. Cruz, J. Figueiredo, et al. Self-paced ERP-based BCI speller with one-time calibration: A unified framework. TechRxiv. February 25, 2026.
+
+G. Pires, A. Cruz, J. Figueiredo,U. J. Nunes, "Self-paced ERP-based BCI speller with one-time calibration: A unified framework". TechRxiv. February 25, 2026.
 
 DOI: 10.36227/techrxiv.177203255.59502778/v1
 
