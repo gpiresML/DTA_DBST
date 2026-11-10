@@ -22,8 +22,8 @@ To test DTA and DBST:
 
 # Cite
 Please cite our paper if you find this work is useful to you: 
+G. Pires, A. Cruz, J. Figueiredo, U. J. Nunes, "Self-paced P300-based BCI speller with one-time calibration: A unified framework ", IEEE Transactions on Systems, Man and Cybernetics: Systems, October 2026, DOI: 10.1109/TSMC.2026.3740699, [link] 
 
-G. Pires, A. Cruz, J. Figueiredo, U. J. Nunes, "Self-paced ERP-based BCI speller with one-time calibration: A unified framework". TechRxiv. February 25, 2026.
 
 DOI: 10.36227/techrxiv.177203255.59502778/v1
 
